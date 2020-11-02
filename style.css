@@ -1,0 +1,510 @@
+*{
+    margin: 0px;
+
+    
+}
+header{
+    background-color: bisque;
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 1140px;
+    margin: auto 0px;
+    float: left;
+}
+.logo{
+    width: 15%;
+    height: 100px;
+    float: left;
+}
+.logo img{
+    width: 100px;
+    margin-left: 50px;
+}
+.name{
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.name h1{
+    color: black;
+    text-align: left;
+    margin-top: 40px;
+}
+.menu{
+    width: 65%;
+    background-color: bisque;
+    height: 100px;
+    float: left;
+}
+.menu li{
+    list-style:none;
+    display: inline-block;
+    margin: 40px 10px 0px 10px;
+}
+.menu li a{
+    color: bisque;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+       
+}
+section{
+    
+    background-image: url(../image/ff.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    float: left;
+}
+
+.banner h2{
+    font-size: 50px;
+    color:black;
+    text-align: center;
+    margin: 70px 50px;
+
+    
+}
+.banner p{
+      font-size: 30px;
+    color:black;
+    text-align: center;
+
+
+
+}
+.banner p button{
+    background: black;
+    color:  bisque;
+    padding: 5px;
+}
+.four{
+    width: 100%;
+    float: left;
+    height: 200px;
+
+}
+.four-one{
+    width: 25%;
+    float: left;
+    height: 200px;
+    
+    background-color:  bisque;
+
+}
+.four-one a i{
+     margin-left: 140px;
+     
+}
+.four-one h2{
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+.four-one p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.four-one button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+.four-two{
+    width: 25%;
+    float: left;
+    height: 200px;
+    background-color:   white;
+
+
+    
+}
+.four-two a i{
+     margin-left: 140px;
+     
+}
+.four-two h2{
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+.four-two p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.four-two button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+
+.four-three{
+    width: 25%;
+    float: left;
+    height: 200px;
+    
+    background-color:   bisque;
+
+    
+}
+.four-three a i{
+     margin-left: 140px;
+     
+}
+.four-three h2{
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+.four-three p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.four-three button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+.four-four{
+    width: 25%;
+    float: left;
+    height: 200px;
+    
+    background-color:  white;
+
+    
+}
+.four-four a i{
+     margin-left: 140px;
+     
+}
+.four-four h2{
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+.four-four p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.four-four button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    margin: 0 auto;
+    display: block;
+}
+.two{
+     width: 100%;
+    float: left;
+    height: 200px;
+
+}
+
+.two-one{
+    width: 30%;
+    float: left;
+    height: 150px;
+    
+    background-color:  bisque;
+
+    margin: 0 auto;
+    display: block;
+
+
+}
+.two-one h2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+.two-one p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.two-one button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.two-two{
+    width: 30%;
+    float: left;
+    height: 150px;
+    
+    background-color:   bisque;
+    
+    margin: 0 auto;
+    display: block;
+    
+
+}
+.two-two h2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+
+
+    
+}
+.two-two p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+
+}
+.two-two button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+}
+.one{
+    width: 100%;
+    float: left;
+    height: 60px;
+    border-color: white;
+}
+.one h3{
+
+    font-size: 20px;
+    text-align: center;
+}
+.twin{
+     width: 100%;
+    float: left;
+    height: 200px;
+}
+.twin-one{
+    width: 50%;
+    float: left;
+    height: 200px;
+    
+    background-color:   white;
+
+}
+.twin-one h3{
+    font-size: 20px;
+    text-align: center;
+
+
+    
+}
+.twin-one p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+  
+
+}
+.twin-one button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+}
+.twin-two{
+    width: 50%;
+    float: left;
+    height: 200px;
+    
+    background-color:   white;
+
+}
+.twin-two h3{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 10px;
+
+    
+}
+.twin-two p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: center;
+  color: black;
+  
+
+}
+.twin-two button{
+    background-color: black;
+    color: bisque; 
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.single{
+    width: 100%;
+    float: left;
+    height: 200px;
+    background-color: bisque;
+}
+
+.single p{
+  font-size: 25px;
+  font-weight: 15px;
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+
+}
+.me{
+    width: 100%;
+    float: left;
+    height: 100px;
+    background-color: white;
+}
+.me{
+    text-align: center;
+    margin-top: 20px;
+}
+.five{
+    width: 100%;
+    float: left;
+    height: 200px;
+
+
+}
+.five-one{
+     width: 20%;
+    float: left;
+    height: 200px;
+ background-color: white;   
+    
+}
+.five-one h1{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+.five-two{
+  width: 20%;
+    float: left;
+    height: 200px;
+background-color: bisque;    
+    
+}
+.five-two h1{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.five-three{
+  width: 20%;
+    float: left;
+    height: 200px;
+background-color: white;    
+    
+}
+.five-three h1{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+.five-four{
+  width: 20%;
+    float: left;
+    height: 200px;
+  background-color: bisque;  
+    
+}
+.five-four h1{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+.five-five{
+     width: 20%;
+    float: left;
+    height: 200px;
+    
+    background-color:   white;
+
+}
+.five-five h1{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+.end{
+     width: 100%;
+    float: left;
+    height: 100px;
+    background-color: black;
+
+}
+.end-one{
+  width: 50%;
+    float: left;
+    height: 100px;
+ 
+    
+}
+.end-one p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: right;
+  color: bisque;
+  margin-top: 20px;
+   margin-left: 10px;
+  
+  
+
+}
+.end-two{
+  width: 50%;
+    float: left;
+    height: 100px;
+ 
+    
+}
+.end-two p{
+  font-size: 15px
+  font-weight: 5px;
+  text-align: left;
+  color: bisque;
+  margin-top: 20px;
+  margin-left: 20px;
+  
+
+}
